@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[GlobalOptionsController.cs](./CS/WinWebSolution.Module/GlobalOptionsController.cs) (VB: [GlobalOptionsController.vb](./VB/WinWebSolution.Module/GlobalOptionsController.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to save an application's settings at runtime and then access them via a common interface from both Windows Forms and ASP.NET platform-dependent modules (Example)
 
 
